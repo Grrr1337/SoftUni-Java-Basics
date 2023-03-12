@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Conditional-Statements-Advanced-Exercise/Conditional-Statements-Advanced-Exercise.iml" filepath="$PROJECT_DIR$/Conditional-Statements-Advanced-Exercise/Conditional-Statements-Advanced-Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditional-Statements-Advanced-Lab/Conditional-Statements-Advanced-Lab.iml" filepath="$PROJECT_DIR$/Conditional-Statements-Advanced-Lab/Conditional-Statements-Advanced-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditional-Statements-Exercise/Conditional-Statements-Exercise.iml" filepath="$PROJECT_DIR$/Conditional-Statements-Exercise/Conditional-Statements-Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditional-Statements-Lab/Conditional-Statements-Lab.iml" filepath="$PROJECT_DIR$/Conditional-Statements-Lab/Conditional-Statements-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SoftUni-Java-Basics.iml" filepath="$PROJECT_DIR$/.idea/SoftUni-Java-Basics.iml" />
+    </modules>
+  </component>
+</project>
