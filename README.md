@@ -5,9 +5,9 @@ Welcome to my Java Basics training projects repository! This collection showcase
 ## Table of Contents
 
 - [Description](#description)
-- [Technologies used](#projects)
+- [Technologies used](#technologies-and-ide-used)
 - [Prerequisites](#prerequisites)
-- [How to Run](#snippets)
+- [How to Run](#how-to-run)
 
 
 ## Description
